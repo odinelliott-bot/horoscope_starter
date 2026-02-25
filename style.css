@@ -1,5 +1,36 @@
 /* add your css classes here */
 
 body { 
-  background: yellow; 
+  background-image: url("zodiac-wheel-with-constellations-planets-against-dark-starry-sky_693386-920.avif");
+  text-align: center;
+  color: white;
+}
+#image {
+  height : 500px;
+  width : 500px;
+}
+#sign {
+  color: white;
+  font-size: 40px;
+  font-style: "Times New Roman"
+}
+#messages {
+  font-size: 900px;
+  font-style: "Times New Roman"
+}
+#restartButton {
+  position: relative;
+  top: 650px;
+  left: -100px;
+}
+#startButton {
+  position: relative;
+  top: 650px;
+  left: 100px;
+}
+
+#birthdayDay {
+  position: relative;
+  top: 0px;
+  left: 80px;
 }
